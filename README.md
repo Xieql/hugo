@@ -35,7 +35,7 @@ A fast and flexible static site generator built with love by [bep], [spf13], and
 
 [Website] | [Installation] | [Documentation] | [Support] | [Contributing] | <a rel="me" href="https://fosstodon.org/@gohugoio">Mastodon</a>
 
-## Overview
+## Overview1
 
 Hugo is a [static site generator] written in [Go], optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.
 
